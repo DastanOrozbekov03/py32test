@@ -1,11 +1,11 @@
 hello = 'hello'
 print('hello')
 kjalhkdsgj
-dandelioon
-'Monkey_D_Luffy'-sdfghjkjhgfdfg
-abbas loh
+bbbbbbbbbbbbbbb
+'Monkey_D_Luffy'9000000000
+80000000
 ilgiz-krutoi
 rsedtyfguhjkl; 
-rayana 
-marjana one cool
+rayana bbb
+ilgiz-loh
 8080880800
