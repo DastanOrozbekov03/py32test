@@ -1,4 +1,1 @@
-sadasdasdasdasda
-assadasdasdasdasdas
-bbbbbbbbbbbb
-aaaaaaaaaaaaaaa
+print('hello')
