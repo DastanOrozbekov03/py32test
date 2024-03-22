@@ -6,4 +6,4 @@ dandelioon
 abbas loh
 ilgiz-krutoi
 rsedtyfguhjkl; 
-rayana kakashka
+rayana 
